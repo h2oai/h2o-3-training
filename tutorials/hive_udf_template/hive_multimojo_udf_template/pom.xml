@@ -8,7 +8,7 @@
 	<name>{}</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<hive.version>0.14.0.2.2.0.0-2041</hive.version>
+		<hive.version>2.3.4</hive.version>
 		<hadoop.version>2.6.0.2.2.0.0-2041</hadoop.version>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.8.2</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
